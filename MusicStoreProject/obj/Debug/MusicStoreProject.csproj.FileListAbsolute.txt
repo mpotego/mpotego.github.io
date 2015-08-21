@@ -1,0 +1,64 @@
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\MusicStoreProject.dll.config
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\MusicStoreProject.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\MusicStoreProject.pdb
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\Antlr3.Runtime.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\EntityFramework.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\Newtonsoft.Json.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Net.Http.Formatting.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.Http.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.Http.WebHost.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.Mvc.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.Optimization.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.Providers.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.Razor.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.WebPages.Deployment.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.WebPages.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.WebPages.Razor.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\WebGrease.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\EntityFramework.xml
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\Newtonsoft.Json.xml
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Net.Http.Formatting.xml
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.Http.xml
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.Http.WebHost.xml
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.Mvc.xml
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.Razor.xml
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.WebPages.xml
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.WebPages.Deployment.xml
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\bin\System.Web.WebPages.Razor.xml
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\obj\Debug\MusicStoreProject.dll
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\obj\Debug\MusicStoreProject.pdb
+c:\users\bbdnet1054\documents\visual studio 2013\Projects\MusicStoreProject\MusicStoreProject\obj\Debug\MusicStoreProject.csprojResolveAssemblyReference.cache
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\MusicStoreProject.dll.config
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\MusicStoreProject.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\MusicStoreProject.pdb
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\Antlr3.Runtime.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\EntityFramework.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\Newtonsoft.Json.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Net.Http.Formatting.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.Http.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.Http.WebHost.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.Mvc.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.Optimization.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.Providers.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.Razor.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.WebPages.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\WebGrease.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\EntityFramework.xml
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\Newtonsoft.Json.xml
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Net.Http.Formatting.xml
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.Http.xml
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.Http.WebHost.xml
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.Mvc.xml
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.Razor.xml
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.WebPages.xml
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\obj\Debug\MusicStoreProject.csprojResolveAssemblyReference.cache
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\obj\Debug\MusicStoreProject.dll
+C:\Users\bbdnet1054\Documents\GitHub\GitHubRepo\gdcoetsee.github.io\Begin\MusicStoreProject\obj\Debug\MusicStoreProject.pdb
